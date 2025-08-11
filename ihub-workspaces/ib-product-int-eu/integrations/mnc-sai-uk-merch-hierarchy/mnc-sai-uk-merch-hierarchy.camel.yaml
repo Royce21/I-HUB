@@ -1,0 +1,6 @@
+integration:
+  id: mnc-sai-uk-merch-hierarchy
+  workspace: ib-product-int-eu
+  version: 0.1.0
+  metadata:
+    generated_by: repo-cli
