@@ -1,0 +1,7 @@
+﻿{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "merchHierarchySchema",
+  "type": "object",
+  "properties": { "name": { "type": "string" } },
+  "required": ["name"]
+}

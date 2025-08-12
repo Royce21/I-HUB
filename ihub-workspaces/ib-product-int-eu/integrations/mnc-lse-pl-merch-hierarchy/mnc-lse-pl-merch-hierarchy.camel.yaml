@@ -1,0 +1,6 @@
+integration:
+  id: mnc-lse-pl-merch-hierarchy
+  workspace: ib-product-int-eu
+  version: 1.0.0
+  metadata:
+    generated_by: repo-cli
