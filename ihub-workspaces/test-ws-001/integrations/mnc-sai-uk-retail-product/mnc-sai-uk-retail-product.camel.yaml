@@ -1,6 +1,0 @@
-integration:
-  id: mnc-sai-uk-retail-product
-  workspace: test-ws-001
-  version: 0.1.0
-  metadata:
-    generated_by: repo-cli
